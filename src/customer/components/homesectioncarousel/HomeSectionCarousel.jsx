@@ -3,7 +3,6 @@ import HomeSectionCard from '../homesectioncards/HomeSectionCard';
 import AliceCarousel from 'react-alice-carousel';
 import ArrowBackIosNewIcon from '@mui/icons-material/ArrowBackIosNew';
 import { Button } from '@mui/material';
-import { mens_jackets } from '../../../data/mens_jacket';
 
 const HomeSectionCarousel=({data, title})=> {
 
